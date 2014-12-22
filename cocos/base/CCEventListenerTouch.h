@@ -49,7 +49,6 @@ public:
     /// Overrides
     virtual EventListenerTouchOneByOne* clone() override;
     virtual bool checkAvailable() override;
-    //
 
 public:
 
